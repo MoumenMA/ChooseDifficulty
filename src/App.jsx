@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import DisplayDifficulty from "./DisplayDifficulty";
-import MenuList from "./Menulist";
+import MenuList from "./MenuList";
 
 function App() {
   const [level, setLevel] = useState("");
