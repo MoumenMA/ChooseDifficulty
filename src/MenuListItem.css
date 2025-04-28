@@ -1,0 +1,14 @@
+.containerItems {
+  border: 2px solid gray;
+  height: 63px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.containerItems:hover {
+  background-color: #00d5ff;
+  color: white;
+}
